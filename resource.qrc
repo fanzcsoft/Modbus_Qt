@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/document-properties.png</file>
+        <file>image/fileopen.png</file>
+        <file>image/mail-reply-all.png</file>
+        <file>image/stock_stop.png</file>
+    </qresource>
+</RCC>
